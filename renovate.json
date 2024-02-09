@@ -26,7 +26,7 @@
   "prHeader": "RicardoGEsteves {{{groupSlug}}} update, dependency {{depName}} to v{{newVersion}}",
   "assignees": ["RicardoGEsteves"],
   "labels": ["dependencies", "major", "minor", "patch"],
-  "schedule": ["every month on the first day of the month"],
+  "schedule": ["every 3 months on the first day of the month"],
   "npm": {
     "minimumReleaseAge": "3 days"
   },
